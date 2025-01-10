@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m currently studying at Open University Sri Lanka and following the Bachelor of Software Engineering (Hons) degree programe.
+
 <!--
 **Kavindu960924/Kavindu960924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
